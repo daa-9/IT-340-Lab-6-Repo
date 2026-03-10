@@ -3485,3 +3485,199 @@ tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
 tmpfs           341M   96K  341M   1% /run/user/1000
 tmpfs           341M   52K  341M   1% /run/user/1004
 
+=== UPTIME OF VM ===
+up 3 hours, 23 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.5Gi       310Mi        53Mi       1.8Gi       1.8Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   88K  341M   1% /run/user/1000
+tmpfs           341M   52K  341M   1% /run/user/1004
+
+=== UPTIME OF VM ===
+up 3 hours, 24 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.2Gi       691Mi        17Mi       1.7Gi       2.2Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   88K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 25 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.2Gi       691Mi        17Mi       1.7Gi       2.2Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   88K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 26 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.2Gi       691Mi        17Mi       1.7Gi       2.2Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   88K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 27 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       580Mi        23Mi       1.7Gi       2.1Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   96K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 28 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       539Mi        23Mi       1.8Gi       2.0Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   96K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 29 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       539Mi        24Mi       1.8Gi       2.0Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   96K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 30 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       539Mi        33Mi       1.8Gi       2.0Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   92K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 31 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       539Mi        33Mi       1.8Gi       2.0Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   92K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 32 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       539Mi        33Mi       1.8Gi       2.0Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   92K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 33 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       539Mi        30Mi       1.8Gi       2.0Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   96K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 34 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       539Mi        33Mi       1.8Gi       2.0Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   92K  341M   1% /run/user/1000
+
+=== UPTIME OF VM ===
+up 3 hours, 35 minutes
+=== MEMORY INFORMATION ===
+Mem:           3.3Gi       1.3Gi       539Mi        33Mi       1.8Gi       2.0Gi
+=== DISK SPACE INFO ===
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           681M  1.7M  679M   1% /run
+/dev/sda2        30G  7.0G   21G  25% /
+tmpfs           1.7G     0  1.7G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-journald.service
+tmpfs           1.7G  8.0K  1.7G   1% /tmp
+tmpfs           1.0M     0  1.0M   0% /run/credentials/systemd-resolved.service
+tmpfs           341M   92K  341M   1% /run/user/1000
+
